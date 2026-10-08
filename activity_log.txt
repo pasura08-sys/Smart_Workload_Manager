@@ -1,0 +1,5 @@
+[2026-10-07 04:24:06] Smart Workload Manager started.
+[2026-10-07 04:26:47] Primary workload selected: Interop (PID 10)
+[2026-10-07 04:26:52] Smart Workload Manager exited.
+[2026-10-08 02:59:31] Smart Workload Manager started.
+[2026-10-08 02:59:39] Smart Workload Manager exited.
